@@ -22,7 +22,7 @@ Then, let's imagine that you want to merge these images, corresponding to the pa
 
 ![step 2.1](./demo_img/step2_1.jpg?raw=true)
 
-In the application, you choose the path of the folder and the name of the pdf file that will contain your images :
+In the application, you choose the path of the folder and the name of the pdf file that will contain the images mentioned above :
 
 ![step 2.2](./demo_img/step2_2.jpg?raw=true)
 
