@@ -18,7 +18,7 @@ The application opens and looks like this :
 
 ![step 1](./demo_img/step1.jpg?raw=true)
 
-Then, let's imagine that you want to attach these images, corresponding to the pages of a digital book, which are located in this folder :
+Then, let's imagine that you want to merge these images, corresponding to the pages of a digital book, which are located in this folder :
 
 ![step 2.1](./demo_img/step2_1.jpg?raw=true)
 
