@@ -9,7 +9,7 @@
 
 ## Tutorial
 
-Open your favorite Terminal and run these commands.
+Open your favorite Terminal and run this command :
 
 ```sh
 python convert2pdf.py
@@ -26,8 +26,8 @@ In the application, you choose the path of the folder and the name of the pdf fi
 
 ![step 2.2](./demo_img/step2_2.jpg?raw=true)
 
-Et voilà ! The PDF File is generated !
+Et voilà ! The PDF File is generated ! You can find the pdf ![here](./test/folder/pdf/test.pdf) !
 
 ![step 2.2](./demo_img/step3_1.jpg?raw=true)
 
-You can find the pdf ![here](./test/folder/pdf/test.pdf) !
+
